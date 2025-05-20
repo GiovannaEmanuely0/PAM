@@ -36,6 +36,7 @@ const styles = StyleSheet.create({
     width: 375,
   },
   section:{
-
+    height: 330,
+    width: 375,
   },
 });
